@@ -20,7 +20,7 @@ There are also folders containing the HATLAS maps and the homegenised HELP PACS 
 -------------------------------------------------------------------------------
 
 
-**Authors**: María Varillas Campos Carmen, [Seb Oliver](http://www.sussex.ac.uk/profiles/91548), [Raphael shirley](http://raphaelshirley.co.uk/).
+**Authors**: M. Carmen Campos Varillas, [Seb Oliver](http://www.sussex.ac.uk/profiles/91548), [Raphael shirley](http://raphaelshirley.co.uk/).
 
  ![HELP LOGO](https://avatars1.githubusercontent.com/u/7880370?s=75&v=4)
  The Herschel Extragalactic Legacy Project, ([HELP](http://herschel.sussex.ac.uk/)), is a [European
